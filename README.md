@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @valadis02
-- 👀 I’m interested in computer science and software developing.
+- 👀 I’m interested in computer science and software developing speciallizing in embedded and system programming.
 - 🌱 I’m currently learning computer and electrical engineering at the national technological university of Athens.
-- 💞️ I’m looking to collaborate on organisations associated to the google summer of code 2024.
+- 💞️ I’m looking for a software developer job.
 - 📫 How to reach me: email->balt5249@gmail.com 
 
 <!---
